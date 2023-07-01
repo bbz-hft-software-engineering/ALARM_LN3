@@ -8,5 +8,5 @@ An alarm system with the ``Sparkfun Proton Inventor's Kit`` using basic hardware
 - Flash the Code to your Photon with the [Particle Web IDE](https://build.particle.io/)
 
 # Additional Resources
-- Files to download see docs.
+- Files to download see [docs](https://github.com/bbz-hft-software-engineering/ALARM_LN3?search=1).
 - [Wiki](https://github.com/bbz-hft-software-engineering/ALARM_LN3/wiki) for Additional Information
