@@ -1,2 +1,3 @@
 # ALARM_LN3
-Leistungsnachweis 3 Photonprojekt
+[![MIT License][license-shield]][license-url][![Contributors][contributors-shield]][contributors-url]
+An alarm system with the ``Sparkfun Proton Inventor's`` Kit using basic hardware components
