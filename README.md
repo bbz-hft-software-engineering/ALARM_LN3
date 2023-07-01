@@ -1,4 +1,12 @@
 # ALARM_LN3
-[![MIT License][license-shield]][license-url]
-[![Contributors][contributors-shield]][contributors-url]
-An alarm system with the ``Sparkfun Proton Inventor's`` Kit using basic hardware components
+An alarm system with the ``Sparkfun Proton Inventor's Kit`` using basic hardware components
+
+# Getting Started
+
+- build the circuit with the electrical diagram in the manual
+- download ``hfs_Ln3.ino`` and upload it 
+- Flash the Code to your Photon with the [Particle Web IDE](https://build.particle.io/)
+
+# Additional Resources
+- Files to download see ``docs``.
+- Wiki 
