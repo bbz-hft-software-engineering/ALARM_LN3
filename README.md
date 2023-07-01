@@ -9,4 +9,4 @@ An alarm system with the ``Sparkfun Proton Inventor's Kit`` using basic hardware
 
 # Additional Resources
 - Files to download see ``docs``.
-- Wiki 
+- [Wiki](https://github.com/bbz-hft-software-engineering/ALARM_LN3/wiki) for Additional Information
