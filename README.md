@@ -1,5 +1,6 @@
 # ALARM_LN3
 An alarm system with the ``Sparkfun Proton Inventor's Kit`` using basic hardware components
+created by Fuddibaeggli
 
 # Getting Started
 
