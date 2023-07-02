@@ -9,4 +9,4 @@ created by Fuddibaeggli
 - Flash the Code to your Photon with the [Particle Web IDE](https://build.particle.io/)
 
 # Additional Resources
-- Files to download see [docs](https://github.com/bbz-hft-software-engineering/ALARM_LN3?search=1).
+- the documentation and the files to download are in the tab [docs](https://github.com/bbz-hft-software-engineering/ALARM_LN3?search=1).
