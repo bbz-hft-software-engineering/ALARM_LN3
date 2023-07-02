@@ -10,4 +10,3 @@ created by Fuddibaeggli
 
 # Additional Resources
 - Files to download see [docs](https://github.com/bbz-hft-software-engineering/ALARM_LN3?search=1).
-- [Wiki](https://github.com/bbz-hft-software-engineering/ALARM_LN3/wiki) for Additional Information
